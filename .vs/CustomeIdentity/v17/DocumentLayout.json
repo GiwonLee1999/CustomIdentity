@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|solutionrelative:customeidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|solutionrelative:customeidentity\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\migrations\\20240303044136_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|solutionrelative:customeidentity\\migrations\\20240303044136_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|solutionrelative:customeidentity\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|solutionrelative:customeidentity\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomIdentity.csproj|solutionrelative:customeidentity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\migrations\\20240303044136_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\migrations\\20240303044136_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|c:\\giwon lee\\visual studio app\\web_app_001_2024_03_02\\customeidentity\\customeidentity\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C20E106-DD7A-4627-9B08-1604DE18943E}|CustomeIdentity\\CustomeIdentity.csproj|solutionrelative:customeidentity\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CustomeIdentity\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T02:02:13.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CustomeIdentity\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T02:02:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "CustomeIdentity\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:02:08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CustomeIdentity\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:02:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CustomeIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwDcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:01:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240303044136_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Migrations\\20240303044136_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Migrations\\20240303044136_Initial.Designer.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Migrations\\20240303044136_Initial.Designer.cs",
+              "RelativeToolTip": "CustomeIdentity\\Migrations\\20240303044136_Initial.Designer.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAkwBUBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:01:47.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CustomeIdentity\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:00:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CustomeIdentity\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:24:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Models\\AppUser.cs",
+              "RelativeToolTip": "CustomeIdentity\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:26:34.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CustomeIdentity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T04:51:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomeIdentity\\appsettings.json",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\appsettings.json",
+              "RelativeToolTip": "CustomeIdentity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T04:28:53.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240303044136_Initial.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Migrations\\20240303044136_Initial.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Migrations\\20240303044136_Initial.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Migrations\\20240303044136_Initial.cs",
+              "RelativeToolTip": "CustomeIdentity\\Migrations\\20240303044136_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:41:36.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "CustomeIdentity\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "CustomeIdentity\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:44:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CustomeIdentity\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Giwon Lee\\Visual Studio App\\Web_App_001_2024_03_02\\CustomeIdentity\\CustomeIdentity\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CustomeIdentity\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T04:50:20.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
